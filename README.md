@@ -1,6 +1,8 @@
-### Hi! I'm Alicia, a first year Math and Data Science double major at UCI.
-I love data science and plan to use it primarily in the high tech and financial fields. I'm also interested in the mathematical concepts behind the algorithms to optimize existing tools.
-Connect with me on [*Linkedin*](www.linkedin.com/in/alicia-chuang-119009213) or through [*Email*](aliciachuang2003@gmail.com).
+### Hello! I'm Alicia, a first year Math and Data Science double major at UCI.
+I love data science and plan to use it primarily in the high tech and financial fields.  
+I'm also interested in the mathematical concepts behind the algorithms to optimize existing tools. 
+
+Connect with me on [*LinkedIn*](www.linkedin.com/in/alicia-chuang-119009213) or through [*Email*](aliciachuang2003@gmail.com).
 
 <!--
 **AliciaChuang/AliciaChuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
