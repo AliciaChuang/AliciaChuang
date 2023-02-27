@@ -1,4 +1,4 @@
-### Hello! I'm Alicia, a first year Math and Data Science double major at UCI.
+### Hello! I'm Alicia, a second year Math and Data Science double major at UCI.
 I love data science and plan to use it primarily in the high tech and financial fields but am open to exploring other fields as well.  
 I'm also interested in mathematical modeling and the mathematical concepts behind the algorithms to optimize existing tools. 
 
