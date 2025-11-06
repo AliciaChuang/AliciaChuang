@@ -1,8 +1,4 @@
-### Hello! I'm Alicia, a second year Math and Data Science double major at UCI.
-I love data science and plan to use it primarily in the high tech and financial fields but am open to exploring other fields as well.  
-I'm also interested in mathematical modeling and the mathematical concepts behind the algorithms to optimize existing tools. 
-
-Connect with me on [*LinkedIn*](www.linkedin.com/in/alicia-chuang-119009213) or through *Email: aliciachuang2003@gmail.com*.
+### Hello! I'm Alicia Chuang. I grew up in Bay Area, California and completed my undergrad at UCI double majoring in Math and Data Science. I am now based in Seattle, Washington where I'm completing my Masters of Data Science at UW and working as a software engineer at Amazon.
 
 <!--
 **AliciaChuang/AliciaChuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
