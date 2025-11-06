@@ -1,4 +1,4 @@
-### Hello! I'm Alicia Chuang. I grew up in Bay Area, California and completed my undergrad at UCI double majoring in Math and Data Science. I am now based in Seattle, Washington where I'm completing my Masters of Data Science at UW and working as a software engineer at Amazon.
+Hello! I'm Alicia Chuang. I grew up in Bay Area, California and completed my undergrad at UCI double majoring in Math and Data Science. I am now based in Seattle, Washington where I'm completing my Masters of Data Science at UW and working as a software engineer at Amazon.
 
 <!--
 **AliciaChuang/AliciaChuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
